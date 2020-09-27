@@ -1,4 +1,4 @@
-# Tasks by Sparks Foundation
+# Task List
 
 # Task - 2 : To Explore Supervised Machine Learning
 Data can be found at http://bit.ly/w-data
